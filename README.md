@@ -113,20 +113,17 @@ IoT & Embedded Systems
 
 <div align="center">
 
-<!-- Profile Details Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifatnizami-cloud&theme=github_dark" width="100%" />
 
-<br><br>
+<br>
 
-<!-- Stats + Top Languages side by side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifatnizami-cloud&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifatnizami-cloud&theme=github_dark" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifatnizami-cloud&theme=github_dark" height="180" />
 
-<br><br>
+<br>
 
-<!-- Productive Time (Bangladesh = UTC+6) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifatnizami-cloud&theme=github_dark" height="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifatnizami-cloud&theme=github_dark&utcOffset=6" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifatnizami-cloud&theme=github_dark" height="180" />
 
 </div>
 
