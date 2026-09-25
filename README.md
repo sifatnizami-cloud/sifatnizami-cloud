@@ -113,10 +113,9 @@ IoT & Embedded Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sifatnizami-cloud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifatnizami-cloud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatnizami-cloud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sifatnizami-cloud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </div>
 
 ---
