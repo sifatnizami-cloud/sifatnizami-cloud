@@ -109,16 +109,26 @@ IoT & Embedded Systems
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifatnizami-cloud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifatnizami-cloud&theme=github_dark" width="100%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sifatnizami-cloud&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+<br><br>
+
+<!-- Stats + Top Languages side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifatnizami-cloud&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifatnizami-cloud&theme=github_dark" height="180" />
+
+<br><br>
+
+<!-- Productive Time (Bangladesh = UTC+6) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifatnizami-cloud&theme=github_dark&utcOffset=6" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifatnizami-cloud&theme=github_dark" height="180" />
+
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
